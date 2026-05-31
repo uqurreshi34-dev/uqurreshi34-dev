@@ -15,7 +15,8 @@ An AI-powered Android file manager with native performance.
 - Django REST Framework backend (Render)
 - SQLite with BM25 full-text search
 - RevenueCat (£2.99 lifetime Pro tier)
-- Google Drive, OneDrive and Dropbox backup
+- Google Drive, OneDrive and Dropbox backup and restore
+- WIFI file share
 - Android home screen widget
 - Universal PIN + biometric app lock
 
