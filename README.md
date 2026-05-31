@@ -26,6 +26,10 @@ An AI-powered Android file manager with native performance.
 
 These projects were built to develop skills across the full stack — each one feeding into AskFiles.
 
+**Code Quest** — Android educational coding game
+- React Native/Expo (landscape), Next.js backend, Neon PostgreSQL
+- 6 custom game mechanics built from scratch
+
 **RehearsAI** — AI mock interview app (rehearsai.co.uk)
 - Django REST + Next.js + React Native/Expo
 - Voice input via expo-speech-recognition
@@ -35,10 +39,6 @@ These projects were built to develop skills across the full stack — each one f
 - Django REST + Next.js + React Native/Expo
 - Socials feed with infinite scroll, optimistic voting, emoji reactions
 - SendGrid email reports, Google OAuth
-
-**Code Quest** — Android educational coding game
-- React Native/Expo (landscape), Next.js backend, Neon PostgreSQL
-- 6 custom game mechanics built from scratch
 
 **Legacy Letters** — Digital memory vault
 - Vite/React/TypeScript, Clerk auth, Claude API, HeyGen video generation
