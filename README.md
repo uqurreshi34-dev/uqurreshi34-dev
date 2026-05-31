@@ -1,4 +1,4 @@
-# Hi, I'm Umer Qurreshi 👋
+# Hi, I'm uqurreshi34-dev 👋
 
 I'm an indie mobile developer who builds and ships real apps. I leverage modern AI tools to architect, build and iterate fast — from idea to Play Store.
 
