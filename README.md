@@ -22,13 +22,21 @@ An AI-powered Android file manager with native performance.
 
 ---
 
+## 🎮 Open Source
+
+### [Code Quest — Educational Coding Game](https://github.com/uqurreshi34-dev/codequest-mobile)
+A landscape-locked Android coding game teaching programming concepts through interactive challenges.
+
+**Tech stack:**
+- React Native / Expo (landscape-locked)
+- Next.js backend, Neon PostgreSQL
+- Clerk authentication
+- 6 custom game mechanics (SlotMachine, CabinShootout, CipherWheel, ComponentBuilder, HudTargeter, QueryTerminal)
+- Daily challenges, graduation certificates, push notifications
+
 ## 🛠️ Practice Projects
 
 These projects were built to develop skills across the full stack — each one feeding into AskFiles.
-
-**Code Quest** — Android educational coding game
-- React Native/Expo (landscape), Next.js backend, Neon PostgreSQL
-- 6 custom game mechanics built from scratch
 
 **RehearsAI** — AI mock interview app (rehearsai.co.uk)
 - Django REST + Next.js + React Native/Expo
